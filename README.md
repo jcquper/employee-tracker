@@ -1,5 +1,7 @@
 # Employee Tracker
 Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. In this homework assignment, your challenge is to architect and build a solution for managing a company's employees using node, inquirer, and MySQL.
+# DEMO
+https://www.youtube.com/watch?v=0rnxrqJ3VNA&feature=youtu.be
 ## Instructions
 Design the following database schema containing three tables:
 ## department:
@@ -41,5 +43,4 @@ Use InquirerJs NPM package to interact with the user via the command-line.
 Use console.table to print MySQL rows to the console. There is a built-in version of console.table, but the NPM package formats the data a little better for our purposes.
 You may wish to have a separate file containing functions for performing specific SQL queries you'll need to use. Could a constructor function or a class be helpful for organizing these?
 You will need to perform a variety of SQL JOINS to complete this assignment, and it's recommended you review the week's activities if you need a refresher on this.
-# DEMO
-https://www.youtube.com/watch?v=0rnxrqJ3VNA&feature=youtu.be
+
